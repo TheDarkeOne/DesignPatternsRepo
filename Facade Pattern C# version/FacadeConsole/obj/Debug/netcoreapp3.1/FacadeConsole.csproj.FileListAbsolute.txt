@@ -1,0 +1,13 @@
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\bin\Debug\netcoreapp3.1\FacadeConsole.exe
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\bin\Debug\netcoreapp3.1\FacadeConsole.deps.json
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\bin\Debug\netcoreapp3.1\FacadeConsole.runtimeconfig.json
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\bin\Debug\netcoreapp3.1\FacadeConsole.runtimeconfig.dev.json
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\bin\Debug\netcoreapp3.1\FacadeConsole.dll
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\bin\Debug\netcoreapp3.1\FacadeConsole.pdb
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\obj\Debug\netcoreapp3.1\FacadeConsole.csprojAssemblyReference.cache
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\obj\Debug\netcoreapp3.1\FacadeConsole.AssemblyInfoInputs.cache
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\obj\Debug\netcoreapp3.1\FacadeConsole.AssemblyInfo.cs
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\obj\Debug\netcoreapp3.1\FacadeConsole.csproj.CoreCompileInputs.cache
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\obj\Debug\netcoreapp3.1\FacadeConsole.dll
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\obj\Debug\netcoreapp3.1\FacadeConsole.pdb
+C:\Users\ammon\source\repos\RemotePattern\FacadeConsole\obj\Debug\netcoreapp3.1\FacadeConsole.genruntimeconfig.cache
